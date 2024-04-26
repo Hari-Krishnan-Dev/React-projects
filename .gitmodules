@@ -1,0 +1,6 @@
+[submodule "geekfood-home"]
+	path = geekfood-home
+	url = https://github.com/k-harikrishnan-08/geekfood-home.git
+[submodule "basic-component"]
+	path = basic-component
+	url = https://github.com/k-harikrishnan-08/basic-component.git
